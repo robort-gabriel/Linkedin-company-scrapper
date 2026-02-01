@@ -1,0 +1,64 @@
+# LinkedIn Scraper Extension - Git Ignore
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Icon files (users should add their own)
+icons/*.png
+icons/*.jpg
+icons/*.jpeg
+icons/*.svg
+
+# Keep the instructions file
+!icons/icon-instructions.txt
+
+# Chrome extension files
+*.crx
+*.pem
+
+# Logs
+*.log
+npm-debug.log*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+
+# User data (if testing locally)
+storage/
+data/
+
+# Backup files
+*.bak
+*.backup
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Node modules (if any)
+node_modules/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Distribution files
+dist/
+build/
+
+/CHROME_WEB_STORE_REQUIREMENTS.md

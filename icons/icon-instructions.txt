@@ -1,0 +1,31 @@
+ICON PLACEHOLDER INSTRUCTIONS
+==============================
+
+This extension requires three icon files in PNG format:
+- icon16.png (16x16 pixels)
+- icon48.png (48x48 pixels)  
+- icon128.png (128x128 pixels)
+
+You can create these icons using any image editor or online tool.
+
+SUGGESTED DESIGN:
+- Blue LinkedIn-style color scheme (#0a66c2)
+- Simple "LI" text or briefcase icon
+- Professional and clean look
+
+QUICK ONLINE TOOLS:
+- Canva: https://www.canva.com
+- Figma: https://www.figma.com
+- Favicon Generator: https://favicon.io
+
+PLACEHOLDER OPTION:
+For testing, you can use simple colored squares or download free icons from:
+- https://icons8.com
+- https://flaticon.com
+
+Once you have your icons, replace this file by adding:
+- icon16.png
+- icon48.png
+- icon128.png
+
+to this directory.
